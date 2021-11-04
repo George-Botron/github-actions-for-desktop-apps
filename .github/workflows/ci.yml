@@ -9,10 +9,10 @@ name:  Wpf Continuous Integration
 on:
   push:
     branches:
-      - master
+      - dev/edskrod/master/UpdatePlatformTarget
   pull_request:
     branches:
-      - master
+      - dev/edskrod/master/UpdatePlatformTarget
 
 jobs:
 
