@@ -9,10 +9,10 @@ name:  Wpf Continuous Integration
 on:
   push:
     branches:
-      - master
+      - lance/net5-update
   pull_request:
     branches:
-      - master
+      - lance/net5-update
 
 jobs:
 
